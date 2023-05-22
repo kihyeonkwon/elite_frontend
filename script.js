@@ -1,9 +1,8 @@
-console.log('나 스크립트.js야');
 
 let todo = [
   { id: 1, content: 'HTML', completed: false },
   { id: 2, content: 'CSS', completed: true },
-  { id: 3, content: 'Javascript', completed: false }
+  { id: 3, content: 'Javascript', completed: false },
 ];
 
 
